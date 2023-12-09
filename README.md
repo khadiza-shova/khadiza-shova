@@ -4,7 +4,7 @@
 
 ### Hi there I'am Khadiza AKter Shova👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadiza-shova&theme=dark&border_radius=5.2&mode=weekly&card_width=499)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadiza-shova&theme=yellowdark&border_radius=5.2&mode=weekly&card_width=499)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on ...
