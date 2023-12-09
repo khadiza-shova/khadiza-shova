@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on [parcle Delivery App](https://spiffy-starship-6aa15c.netlify.app/)
 
 - 🌱 I’m currently learning **Javascript**
+- 📰   Reading tech blogs whenever possible.
 
 - 💬 Ask me about **Javascrip,React,ExpressJs,MongoDb**
 
