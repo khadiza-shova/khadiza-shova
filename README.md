@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [Parcel Delivery App](https://parcel-management-2084e.web.app)
+
 
 - 🌱 I’m currently learning **Next JS**
 - 📰   Reading tech blogs whenever possible.
